@@ -28,4 +28,4 @@ const experiences = [
   },
 ];
 
-export { studies, experiences };
+export  { studies, experiences };
